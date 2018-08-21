@@ -46,11 +46,12 @@ The following packages are loaded by the `sotonphd.cls` file:
 * `caption` (make "Figure x.x" be printed in bold face)
 * `fancyhdr` (style page headers and footers)
 
-Additionally, just for the example's sake the following packages are loaded in the `input_custom_include.tex`:
+Additionally, just for the example's sake, the following packages are loaded in the `input_custom_include.tex`:
 * `lipsum`
 * `booktabs`
 * `longtable`
 * `tabu`
+
 These packages can be removed if not needed.
 
 ## Class Options
