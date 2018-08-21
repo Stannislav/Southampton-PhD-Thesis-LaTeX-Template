@@ -55,7 +55,7 @@ These packages can be removed if not needed.
 ## Class Options
 The following options can be passed to the `sotonphd` class file
 * `sotonformat`: sets the margins, the font, and the line spacing according to the university guidelines; if this option is not included then the margins have to be set manually by using the `\geometry{}` command, for example `\geometry{inner=1in, outer=1.2in, top=1in, bottom=1in, paperwidth=190mm, paperheight=250mm}`
-* `final`: deactivates the `\todo{}` and `\todomaybe` commands defined in the class file
+* `final`: deactivates the `\todo{}` and `\todomaybe{}` commands defined in the class file
 * `print`: disable colourful links
 
 ## Command Definitions
