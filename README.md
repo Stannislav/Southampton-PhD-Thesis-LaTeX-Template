@@ -67,6 +67,7 @@ The class file defines the following commands
 * `\eg`
 * `\ie`
 * `\etc`
+
 and the following maths operators
 * `\tr`
 * `\id`
