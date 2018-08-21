@@ -14,7 +14,7 @@ To use the template clone the repository and edit the corresponding `*.tex` file
 The files included in this repository are the following:
 * `chapters/*`: tex-files with containing individual chapters
 * `img/*`: folder for pictures
-* `supplements`: contains bibliography style files (`*.bst`), biblography files (`*.bib`), and can be used to store additional files needed for the thesis, such as additional packages (`*.sty`) etc.
+* `supplements/*`: contains bibliography style files (`*.bst`), biblography files (`*.bib`), and can be used to store additional files needed for the thesis, such as additional packages (`*.sty`) etc.
 * `input_custom_include.tex`: additional packages and custom command definitions to be included in the main thesis file
 *  `input_frontmatter.tex`: contains various elements of the front matters: the title page, the abstract, the table of contents, the list of figures and tables, the declaration of authorship, and the acknowledgments
 * `README.md`: this information file; can be deleted after cloning the repository
