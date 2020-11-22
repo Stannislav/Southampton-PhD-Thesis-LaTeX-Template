@@ -10,6 +10,29 @@ This template was inspired by other templates by the following people:
 
 To use the template clone the repository and edit the corresponding `*.tex` files. Alternatively the class file `sotonphd.cls` can be copied into the appropriate `texmf/tex/latex/` local folder. On a Mac with TeX Live installed the class file can be saved as follows: `~/Library/texmf/tex/latex/sotonphd/sotonphd.cls`.
 
+## Preview
+Download the [thesis.pdf](thesis.pdf) file for the full preview.
+
+Title Page
+
+![Title Page](img/title_page.png)
+
+Abstract
+
+![Abstract](img/abstract.png)
+
+Chapter Text 1
+
+![Chapter Text 1](img/chapter_1.png)
+
+Chapter Text 2
+
+![Chapter Text 2](img/chapter_2.png)
+
+Part
+
+![Part](img/part.png)
+
 ## Files included
 The files included in this repository are the following:
 * `chapters/*`: tex-files with containing individual chapters
